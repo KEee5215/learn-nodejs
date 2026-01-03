@@ -1,0 +1,21 @@
+[
+  {
+    "name": "data.json",
+    "type": "json",
+    "data": {
+      "name": "data.json",
+      "type": "json",
+      "data": {
+        "name": "data.json",
+        "type": "json",
+        "data": {
+          "name": "data.json",
+          "type": "json",
+          "data": {
+            "name": "data.json"
+          }
+        }
+      }
+    }
+  }
+]
